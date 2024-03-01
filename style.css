@@ -31,7 +31,6 @@ a{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    background-color: white;
 }
 .party2{
     display: flex;
@@ -63,7 +62,7 @@ flex-grow: 1;
 }
 .btn-white {
     text-decoration: none;
-    color: cyan;
+    color: #FBCEB1;
 }
 
 .text-area {
